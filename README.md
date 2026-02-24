@@ -7,4 +7,3 @@ A zero-tech cross-civilisational transcoding protocol: Chinese characters → Ci
 * [Project Documentation (English)](https://github.com/user-attachments/files/25522792/README_EN.md)
 * [理论假设 (Hypothesis)](https://github.com/user-attachments/files/25522789/HYPOTHESIS.md)
 ![pont s](https://github.com/user-attachments/assets/fa4766d2-2857-4d75-b2ca-0b1a2162b866)
-![lido xyz](https://github.com/user-attachments/assets/98555755-acb9-40ac-a257-6ba3d52bf38a)
